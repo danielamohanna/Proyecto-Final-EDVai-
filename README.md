@@ -179,4 +179,4 @@ Esto es posible dada las interacciones entre las visualizaciones dentro de Power
 
 [Plan de metricas](https://docs.google.com/spreadsheets/d/1psw-AfYKo22d12-FGllV50YzXXV3PYvgAYOIC864kiI/edit?gid=0#gid=0)
 
-[Reporte](<iframe title="proyecto final EDVai" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2I2MmYyZjYtZDA5Ny00NjUzLTgyM2UtNDJkNjU5ZjM3OTY4IiwidCI6IjVmZDQ5ZTJkLTYxMDctNGVkZi1iMDQ1LTEwOTUxZDNiNWZmNSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>)
+[Reporte](https://app.powerbi.com/view?r=eyJrIjoiY2I2MmYyZjYtZDA5Ny00NjUzLTgyM2UtNDJkNjU5ZjM3OTY4IiwidCI6IjVmZDQ5ZTJkLTYxMDctNGVkZi1iMDQ1LTEwOTUxZDNiNWZmNSIsImMiOjR9)
